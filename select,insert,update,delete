@@ -1,0 +1,12 @@
+select *
+from <table_name>
+
+insert into <table_name> (column,column)
+values (data,data);
+
+update <table_name>
+set <column>=<new_data>
+where <data that has to be changed>
+
+delete from <table_name>
+where <data that has to be changed>
